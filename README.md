@@ -25,13 +25,14 @@ interface FeedSearchInterface {
 ```
 
 ### Test data
-Search: Find cheapest new Sony TV
+
+Search: Find cheapest new Sony TV  
 Expected producr ID: 14
 
-Search: Find most expensive product in the feed
+Search: Find most expensive product in the feed  
 Expected producr ID: 20
 
-Search: Find cheapest used product in the feed
+Search: Find cheapest used product in the feed  
 Expected producr ID: 12
 
 >  *Note:* 
